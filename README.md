@@ -1,2 +1,2 @@
-![oyunun ilk hali](![image](https://github.com/edaayaan/Tic-Tac-Toe-Game/assets/117721450/3487a667-314d-4329-b764-f043b41e00dd)
+![oyunun ilk hali](![image](https://github.com/edaayaan/Tic-Tac-Toe-Game/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(298).png)
 )
